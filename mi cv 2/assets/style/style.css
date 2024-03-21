@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+#titulo{
+    display: flex;
+    justify-content: center;
+
+
+}
+.encabezado{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image img{
+    height: 200px;
+    width: 200px;
+}
+
+.container p{
+    display: inline;
+
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.flexcontainer{
+    height: 100%;
+    width: 100%;
+}
+
+.container p{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.datos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+.estudios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.laboral{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#footer{
+    width: 35vw;
+    height: 35vh;
+    display: flex;
+    align-items: flex-end;
+    
+}
