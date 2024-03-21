@@ -1,0 +1,35 @@
+.titulo h1{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 20px solid red;
+    margin-top: 50px;
+    text-align: center;
+}
+.titulo img{
+    height: 200px;
+    width: 200px;
+    padding-left: 1000px;
+}
+
+.encabezado{
+    color: blue;
+    text-align: center;
+}
+
+#profile{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 100px;
+    border: 30px solid red;
+}
+
+.datos{
+    position: relative;
+    left: 100px; 
+}
+
+.skills{
+    position: relative;
+    top: 100%;
+    left: 100px;
+
+}
